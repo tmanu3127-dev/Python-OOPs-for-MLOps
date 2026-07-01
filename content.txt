@@ -13,7 +13,23 @@
    .> easy to colab
 
 5>.End to End Project(Chatbook Class)
-   >.Encapsulation
-   >.Getter and Setter
-   >.Static Method   
+
+   >.Function vs Method
+   >.Magic Method/Dunder Method   # check it on google
+   >.Understand Self()
+   >.You can create Attribute outside class as well.
+   >.Encapsulation  # additional layer of protection and privacy in python.(using double underscore.)
+   >.Getter and Setter  # To get and Set the Hidden Attributes.
+   >.Static Method  
+
+6>. Inheritance:
+
+   >.Inheritance Code example.
+   >.Why Inheritance is needed?(code reusability, parent has no access to child class)
+   >.What gets inherited ? - Constructor, Non pvt attributes, Non pvt Methods.
+   >.Constructor overloading & Method overloading.
+   >.Super keyword(can be used only inside class, can not access variable/attributes,used only inside child class)
+   >.Types of Inheritance - 1.Single Inheritance,2.Multilevel Inheritance,3.Hierarichal Inheritance, 4.Multiple(Diamond Problem),5.Hybrid Inheritance
+   
+       
 
