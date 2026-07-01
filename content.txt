@@ -1,0 +1,14 @@
+1>. Class and Object 
+
+2>.Class has data /attribute  and func/methods
+  .> Code Walkthrough
+  .> attribute get called itself,methods are called manually.
+
+3>.Why Python is called OOPs.-- everything in Pyhton is an object(it would be datatype , data structure)etc.
+
+4>.Advantages of OOPs Concept:
+   .> You can create your own datatype.
+   .> code resuability
+   .> debugging
+   .> easy to colab
+
